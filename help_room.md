@@ -15,20 +15,15 @@ description: Help room schedule and Zoom information.
 
 ## Schedule
 
+TBD
+
 <!-- Monday | 6:00pm to 8:00pm (EST)
 Tuesday | 6:00pm to 8:00pm (EST)
 Wednesday | 6:00pm to 8:00pm (EST)
 Thursday | 6:00pm to 8:00pm (EST)
-Friday | 6:00pm to 8:00pm (EST) -->
-Monday | TBD
-Tuesday | TBD
-Wednesday | TBD
-Thursday | TBD
-Friday | TBD
-Saturday | No help room
-Sunday | No help room
+Friday | 6:00pm to 8:00pm (EST)
 
-Help rooms are not offered during weekends or public holidays.
+Help rooms are not offered during weekends or public holidays. -->
 
 ---
 
