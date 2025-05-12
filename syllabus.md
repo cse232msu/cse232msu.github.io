@@ -73,13 +73,13 @@ We encourage honors lab sections students to also complete the non-honors lab as
 
 ### Flash Quizzes
 
-There are two flash quizzes every week, except for the first week (no flash quizzes) and the exam weeks (one flash quiz). A flash quiz is due a day after every assignment before 11:59pm, and covers the same week's content as the assignment it is coupled with. Flash quizzes are 5 minutes in duration, where you will have (on average) 30 seconds to answer each multiple-choice question. Flash quizzes can only be taken after submitting the assignments that are due before them, and cannot be taken after their respective due dates have passed.
+There are two flash quizzes every week, except for the first week (no flash quizzes) and the exam weeks (one flash quiz). A flash quiz is due a day after every assignment before 11:59pm, and covers the same week's content as the assignment it is coupled with. Flash quizzes consist of forward-only multiple-choice questions, where you will have (on average) 30 seconds to answer each multiple-choice question. Flash quizzes can only be taken after submitting the assignments that are due before them, and cannot be taken after their respective due dates have passed.
 
 ### Exams
 
 <!-- #### Multiple Choice Exams -->
 
-There will be a three synchronous exams, named "Exam 1", "Exam 2", and "Final Exam". Exam 1 and Exam 2 are worth 20 points each. Final Exam is worth 30 points. Exam 1, Exam 2, and the Final Exam will be held on Week 3, Week 5, and Week 7, respectively. The exact dates and times will be announced on Ed Discussion at a later time.
+There will be a three synchronous exams, named "Exam 1", "Exam 2", and "Final Exam". Exam 1 and Exam 2 are worth 20 points each. Final Exam is worth 30 points. Exam 1, Exam 2, and the Final Exam will be held on Week 3, Week 5, and Week 7, respectively. As detailed in the [Exam Policies](exam_policies), there are no makeup exams in this course. Missing an exam will result in a zero in the exam.
 
 <!-- #### Coding Exams
 
@@ -185,9 +185,9 @@ Grades are rounded to the nearest integer. Therefore, a grade of 89.5 will round
 
 ## Extensions
 
-Make-up exams may be arranged if your absence is caused by a documented illness or personal emergency. A written explanation (including supporting documentation) must be emailed to Dr. Momtaz. If the explanation is acceptable, an alternative to the examination will be arranged. When possible, make-up arrangements should be completed in advance.
+<!-- Make-up exams may be arranged if your absence is caused by a documented illness or personal emergency. A written explanation (including supporting documentation) must be emailed to Dr. Momtaz. If the explanation is acceptable, an alternative to the examination will be arranged. When possible, make-up arrangements should be completed in advance. -->
 
-If you are unable to complete an assignment before the specified due date because of illness or a personal emergency, you should contact Dr. Momtaz as early as possible. If the explanation is acceptable, the assignment due date will be extended, and other necessary arrangements will be made.
+Extensions for assignments may only be granted if proper official documentation is provided. If you are unable to complete an assignment before the specified due date because of illness or a personal emergency, you should send the relevant documents to Dr. Momtaz as early as possible.
 
 ## Academic Honesty
 

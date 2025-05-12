@@ -54,7 +54,7 @@ June 26, 2025 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ## Content
 
-All exams will be on D2L using lockdown browser, and will contain both multiple-choice questions, and short-answer questions. Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs.
+All exams will be on D2L using lockdown browser, and will contain both forward-only multiple-choice questions, and forward-only short-answer questions. Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs.
 
 All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 01 and Week 02.
 
@@ -70,7 +70,7 @@ All exams are open note. Which means, you are permitted to use any non-electroni
 
 ## Makeup Exams
 
-As this is an accelerated course, it will not be possible for us to provide any makeup exams. If you miss the final exam due to documented illness or emergency, please send me an email detailing the circumstances around why you did not attend the scheduled exam, along with all relevant official documents. If your reasons are acceptable, it may be possible to schedule a one-on-one oral exam over Zoom, where your mastery of the material will be tested.
+There are no makeup exams in this course. If you miss an exam, you will receive a zero, unless you are able to provide verifiable official documents that corroborate extenuating circumstances (e.g., medical emergency, grief absence, etc.).
 
 ---
 
