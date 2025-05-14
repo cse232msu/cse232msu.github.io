@@ -1,6 +1,6 @@
 ---
 name: Yujin Ki
-role: Teaching Assistang
+role: Teaching Assistant
 email: kiyujin@msu.edu
 # website:
 photo: default

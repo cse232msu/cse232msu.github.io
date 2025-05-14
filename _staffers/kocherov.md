@@ -1,6 +1,6 @@
 ---
 name: Mark Kocherovsky
-role: Teaching Assistang
+role: Teaching Assistant
 email: kocherov@msu.edu
 # website:
 photo: kocherovsky
