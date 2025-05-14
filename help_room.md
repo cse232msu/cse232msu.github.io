@@ -15,23 +15,19 @@ description: Help room schedule and Zoom information.
 
 ## Schedule
 
-TBD
+Monday | 5:00pm to 6:00pm (EST)
+Tuesday | 5:00pm to 6:00pm (EST)
+Wednesday | 4:00pm to 5:00pm (EST)
+Thursday | 5:00pm to 6:00pm (EST)
+Friday | 5:00pm to 6:00pm (EST)
 
-<!-- Monday | 6:00pm to 8:00pm (EST)
-Tuesday | 6:00pm to 8:00pm (EST)
-Wednesday | 6:00pm to 8:00pm (EST)
-Thursday | 6:00pm to 8:00pm (EST)
-Friday | 6:00pm to 8:00pm (EST)
-
-Help rooms are not offered during weekends or public holidays. -->
+Help rooms are not offered during weekends or public holidays.
 
 ---
 
 ## Zoom information
 
-TBD
+[Zoom link](https://msu.zoom.us/s/93419919566)
 
-<!-- [Zoom link](https://msu.zoom.us/j/97204068191)
-
-* Meeting ID: 972 0406 8191
-* Passcode: 250641 -->
+* Meeting ID: 934 1991 9566
+<!-- * Passcode: 123456 -->

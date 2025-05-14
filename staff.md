@@ -46,7 +46,7 @@ description: Listing of all the course staff members.
 {% endfor %}
 {% endif %} -->
 
----
+<!-- ---
 
 ## Help Room Schedule and Hours
 
@@ -61,4 +61,4 @@ Sunday | No help room
 [Zoom link](https://msu.zoom.us/s/93419919566)
 
 * Meeting ID: 934 1991 9566
-<!-- * Passcode: 123456 -->
+* Passcode: 123456 -->
