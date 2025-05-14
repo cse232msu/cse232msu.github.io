@@ -33,7 +33,7 @@ description: Listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
----
+<!-- ---
 
 ## Undergraduate Learning Assistants
 
@@ -44,21 +44,21 @@ description: Listing of all the course staff members.
 {% for staffer in undergraduate_learning_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+{% endif %} -->
 
-<!-- ---
+---
 
 ## Help Room Schedule and Hours
 
-Monday | 6:00pm to 8:00pm (EST)
-Tuesday | 6:00pm to 8:00pm (EST)
-Wednesday | 6:00pm to 8:00pm (EST)
-Thursday | 6:00pm to 8:00pm (EST)
-Friday | 6:00pm to 8:00pm (EST)
+Monday | 5:00pm to 6:00pm (EST)
+Tuesday | 5:00pm to 6:00pm (EST)
+Wednesday | 4:00pm to 5:00pm (EST)
+Thursday | 5:00pm to 6:00pm (EST)
+Friday | 5:00pm to 6:00pm (EST)
 Saturday | No help room
 Sunday | No help room
 
-[Zoom link](https://msu.zoom.us/j/97204068191)
+[Zoom link](https://msu.zoom.us/s/93419919566)
 
-* Meeting ID: 972 0406 8191
-* Passcode: 250641 -->
+* Meeting ID: 934 1991 9566
+<!-- * Passcode: 123456 -->
