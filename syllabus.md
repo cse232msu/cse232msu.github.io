@@ -79,7 +79,7 @@ There are two flash quizzes every week, except for the first week (no flash quiz
 
 <!-- #### Multiple Choice Exams -->
 
-There will be a three synchronous exams, named "Exam 1", "Exam 2", and "Final Exam". Exam 1 and Exam 2 are worth 20 points each. Final Exam is worth 30 points. Exam 1, Exam 2, and the Final Exam will be held on Week 3, Week 5, and Week 7, respectively. As detailed in the [Exam Policies](exam_policies), there are no makeup exams in this course. Missing an exam will result in a zero in the exam.
+There will be a three synchronous exams, named "Exam 1", "Exam 2", and "Final Exam". Exam 1 and Exam 2 are worth 20 points each. Final Exam is worth 30 points. Exam 1, Exam 2, and the Final Exam will be held on Week 3, Week 5, and Week 7, respectively. As detailed in the [Exam Policies](../exam_policies/), there are no makeup exams in this course. Missing an exam will result in a zero in the exam.
 
 <!-- #### Coding Exams
 
