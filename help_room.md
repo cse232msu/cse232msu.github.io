@@ -30,4 +30,4 @@ Help rooms are not offered during weekends or public holidays.
 [Zoom link](https://msu.zoom.us/s/93419919566)
 
 * Meeting ID: 934 1991 9566
-* Passcode: 7789952213
+* Passcode: CSE232_S25
