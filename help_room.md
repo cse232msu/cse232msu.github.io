@@ -18,7 +18,7 @@ description: Help room schedule and Zoom information.
 Monday | 5:00 PM to 7:00 PM (EST)
 Tuesday | 5:00 PM to 6:00 PM (EST)
 Wednesday | 4:00 PM to 5:00 PM (EST)
-Thursday | 5:00 PM to 7:00 PM (EST)
+Thursday | 4:00 PM to 6:00 PM (EST)
 Friday | 5:00 PM to 6:00 PM (EST)
 
 Help rooms are not offered during weekends or public holidays.
