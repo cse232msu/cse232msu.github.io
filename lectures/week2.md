@@ -8,17 +8,17 @@ description: Lectures for week 2.
 
 # Week 2
 
----
+<!-- ---
 
-<!-- Exam 1 MCQ Answers: [CSE_232_Exam_1_MCQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_MCQ.pdf) |
-Exam 1 SQ Answers: [CSE_232_Exam_1_SQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_SQ.pdf) |
+Exam 1 MCQ Answers: [CSE_232_Exam_1_MCQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_MCQ.pdf) |
+Exam 1 SQ Answers: [CSE_232_Exam_1_SQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_SQ.pdf) | -->
 
 ---
 
 Flash Quiz 2 Answers: [CSE_232_Flash_Quiz_2.pdf](../assets/week2/quizzes/CSE_232_Flash_Quiz_2.pdf) |
-Flash Quiz 3 Answers: [CSE_232_Flash_Quiz_3.pdf](../assets/week2/quizzes/CSE_232_Flash_Quiz_3.pdf) |
+<!-- Flash Quiz 3 Answers: [CSE_232_Flash_Quiz_3.pdf](../assets/week2/quizzes/CSE_232_Flash_Quiz_3.pdf) | -->
 
---- -->
+---
 
 Practice Quiz 1 (Spring 2024): [Week2_Sample_Questions_1.pdf](../assets/week2/quizzes/Week2_Sample_Questions_1.pdf) | [Week2_Sample_Key_1.pdf](../assets/week2/quizzes/Week2_Sample_Key_1.pdf)
 Practice Quiz 2 (Spring 2024): [Week2_Sample_Questions_2.pdf](../assets/week2/quizzes/Week2_Sample_Questions_2.pdf) | [Week2_Sample_Key_2.pdf](../assets/week2/quizzes/Week2_Sample_Key_2.pdf)
