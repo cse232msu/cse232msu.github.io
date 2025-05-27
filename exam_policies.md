@@ -83,8 +83,8 @@ There are no makeup exams in this course. If you miss an exam, you will receive 
 ### Before Exam
 
 - Be sure you have the following items ready:
-	- A desktop or a fully charged (or plugged in) laptop computer capable of running Zoom and screen sharing with a functional microphone and a webcam.
-	- A fully charged (or plugged in) smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams.
+	- A desktop or a fully charged (or plugged in) laptop computer capable of running Zoom and screen sharing, with a functional microphone and a webcam. **You will not be able to take the exam without this device.** If you do not have a desktop or a laptop (or if you are worried the one you have may malfunction), you can borrow a laptop from [DECS](https://www.egr.msu.edu/decs).
+	- A fully charged (or plugged in) smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams. **You will not be able to take the exam without this device.** If you do not have a smartphone or a tablet (or if you are worried the one you have may malfunction), you can borrow a smartphone from [DECS](https://www.egr.msu.edu/decs).
 	- Access to a stable internet connection from both devices mentioned above.
 	- Your non-electronic notes.
 	- Your MSU student ID card (or some other valid identification card if you are not an MSU student).
