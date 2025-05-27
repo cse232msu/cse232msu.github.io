@@ -41,22 +41,13 @@ June 26, 2025 (Thursday) | 6:00pm - 8:00pm (EST)
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
 
-<!-- ---
-## Pre-Exam Checklist
-
-- A desktop or a fully charged laptop computer capable of running Zoom and screen sharing with a functional microphone and a webcam.
-- A fully charged smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams.
-- Access to a stable internet connection from both devices mentioned above.
-- Your non-electronic notes.
-- Your MSU ID card.
- -->
 ---
 
 ## Content
 
-All exams will be on D2L using lockdown browser, and will contain both forward-only multiple-choice questions, and forward-only short-answer questions. Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs.
+All exams will be on D2L using lockdown browser, and will contain 40 forward-only multiple-choice questions (40 points), and 4 forward-only short-answer questions (20 points). Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs ([examples](../assets/files/CSE_232_SQ_Examples.pdf)).
 
-All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 01 and Week 02.
+All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 1 and Week 2.
 
 ---
 
@@ -71,6 +62,14 @@ All exams are open note. Which means, you are permitted to use any non-electroni
 ## Makeup Exams
 
 There are no makeup exams in this course. If you miss an exam, you will receive a zero, unless you are able to provide verifiable official documents that corroborate extenuating circumstances (e.g., medical emergency, grief absence, etc.).
+
+---
+
+## Exam Preparation
+
+The exams will have questions derived from concepts covered on the textbook and the lecture videos. So the only way to do well on the exams is through lots of lots of practice. One approach might be to go through the textbook and the lecture videos, and every time you reach a term or concept that is new to you, look up as many additional relevant coding examples, tutorials, and practice problems online on the said term or concept as you can. Some students in the past found it beneficial to practice coding problems on online coding platforms (e.g., LeetCode, Codeacademy, etc.).
+
+It is imperative that you budget your time effectively during the exam. If you spend five minutes going over your notes to answer each MCQ, you will most likely not be able to finish the exam on time. In general, you should try to complete the MCQ portion of the exam within the first hour, and leave the second hour for the short-answer questions. Which means, if you find yourself stuck on an MCQ for more than a minute a half, you should use an educated guess to answer the question, and move on.
 
 ---
 
