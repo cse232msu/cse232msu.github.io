@@ -21,7 +21,7 @@ Wednesday | 4:00 PM to 5:00 PM (EST)
 Thursday | 4:00 PM to 6:00 PM (EST)
 Friday | 5:00 PM to 6:00 PM (EST)
 
-Help rooms are not offered during weekends or public holidays.
+Help rooms are not offered during weekends, exam days, or public holidays.
 
 ---
 
