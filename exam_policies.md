@@ -18,7 +18,7 @@ All times listed here are based on Eastern Daylight Time. If you are in a differ
 
 May 29, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
-[Zoom link available during the day of the exam]()
+[Zoom link available an hour before the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -27,7 +27,7 @@ May 29, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
 June 12, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
-[Zoom link available during the day of the exam]()
+[Zoom link available an hour before the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -36,7 +36,7 @@ June 12, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
 June 26, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
-[Zoom link available during the day of the exam]()
+[Zoom link available an hour before the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
