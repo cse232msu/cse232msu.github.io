@@ -55,7 +55,7 @@ The lab sessions are designed to be learning tools that complement the lectures,
 
 ## Communication
 
-All forms of communication with the course staff should be done through Ed Discussion. All class announcements will be made through Ed Discussion. The course instructor reserves the right to modify course policies, scheduling, and assignment specifications, should the necessity arise.
+All forms of communication with the course staff should be done through Ed Discussion, which will be monitored by the course staff during standard working hours (Monday through Friday, 9:00 AM to 5:00 PM). All class announcements will be made through Ed Discussion. The course instructor reserves the right to modify course policies, scheduling, and assignment specifications, should the necessity arise.
 
 ### Assignments
 
