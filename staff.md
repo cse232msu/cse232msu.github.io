@@ -50,11 +50,11 @@ description: Listing of all the course staff members.
 
 ## Help Room Schedule and Hours
 
-Monday | 5:00pm to 6:00pm (EST)
-Tuesday | 5:00pm to 6:00pm (EST)
-Wednesday | 4:00pm to 5:00pm (EST)
-Thursday | 5:00pm to 6:00pm (EST)
-Friday | 5:00pm to 6:00pm (EST)
+Monday | 5:00pm to 6:00pm (EDT)
+Tuesday | 5:00pm to 6:00pm (EDT)
+Wednesday | 4:00pm to 5:00pm (EDT)
+Thursday | 5:00pm to 6:00pm (EDT)
+Friday | 5:00pm to 6:00pm (EDT)
 Saturday | No help room
 Sunday | No help room
 
