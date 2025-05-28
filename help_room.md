@@ -15,11 +15,11 @@ description: Help room schedule and Zoom information.
 
 ## Schedule
 
-Monday | 5:00 PM to 7:00 PM (EST)
-Tuesday | 5:00 PM to 6:00 PM (EST)
-Wednesday | 4:00 PM to 5:00 PM (EST)
-Thursday | 4:00 PM to 6:00 PM (EST)
-Friday | 5:00 PM to 6:00 PM (EST)
+Monday | 5:00 PM to 7:00 PM (EDT)
+Tuesday | 5:00 PM to 6:00 PM (EDT)
+Wednesday | 4:00 PM to 5:00 PM (EDT)
+Thursday | 4:00 PM to 6:00 PM (EDT)
+Friday | 5:00 PM to 6:00 PM (EDT)
 
 Help rooms are not offered during weekends, exam days, or public holidays.
 

@@ -16,7 +16,7 @@ All times listed here are based on Eastern Standard Time. If you are in a differ
 
 ### Exam 1
 
-May 29, 2025 (Thursday) | 6:00pm - 8:00pm (EST)
+May 29, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
 [Zoom link available during the day of the exam]()
 
@@ -25,7 +25,7 @@ May 29, 2025 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ### Exam 2
 
-June 12, 2025 (Thursday) | 6:00pm - 8:00pm (EST)
+June 12, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
 [Zoom link available during the day of the exam]()
 
@@ -34,7 +34,7 @@ June 12, 2025 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ### Final Exam
 
-June 26, 2025 (Thursday) | 6:00pm - 8:00pm (EST)
+June 26, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
 [Zoom link available during the day of the exam]()
 
