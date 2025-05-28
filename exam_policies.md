@@ -12,7 +12,7 @@ description: Exam policies and other exam-related information.
 
 ## Exam Schedule
 
-All times listed here are based on Eastern Standard Time. If you are in a different time zone, it is your responsibility to convert these times to your local time.
+All times listed here are based on Eastern Daylight Time. If you are in a different time zone, it is your responsibility to convert these times to your local time.
 
 ### Exam 1
 
