@@ -43,7 +43,7 @@ June 26, 2025 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ---
 
-Please **do not** join the help room Zoom for the exams. The help room Zoom will be closed during exam days, as the course staff will be busy with pre-exam preparations and checks.
+Please **do not** join the help room Zoom for the exams. The help room Zoom will be closed during exam days, as the course staff will be busy with pre-exam preparations.
 
 ---
 
