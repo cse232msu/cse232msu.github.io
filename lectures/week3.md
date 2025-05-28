@@ -15,9 +15,9 @@ Flash Quiz 5 Answers: [CSE_232_Flash_Quiz_5.pdf](../assets/week3/quizzes/CSE_232
 
 ---
 
-Practice Quiz 1 (Spring 2024): [Week3_Sample_Questions_1.pdf](../assets/week3/quizzes/Week3_Sample_Questions_1.pdf) | [Week3_Sample_Key_1.pdf](../assets/week3/quizzes/Week3_Sample_Key_1.pdf)
-Practice Quiz 2 (Spring 2024): [Week3_Sample_Questions_2.pdf](../assets/week3/quizzes/Week3_Sample_Questions_2.pdf) | [Week3_Sample_Key_2.pdf](../assets/week3/quizzes/Week3_Sample_Key_2.pdf)
-Practice Quiz 3 (Spring 2024): [Week3_Sample_Questions_3.pdf](../assets/week3/quizzes/Week3_Sample_Questions_3.pdf) | [Week3_Sample_Key_3.pdf](../assets/week3/quizzes/Week3_Sample_Key_3.pdf)
+Practice Quiz 1: [Week3_Sample_Questions_1.pdf](../assets/week3/quizzes/Week3_Sample_Questions_1.pdf) | [Week3_Sample_Key_1.pdf](../assets/week3/quizzes/Week3_Sample_Key_1.pdf)
+Practice Quiz 2: [Week3_Sample_Questions_2.pdf](../assets/week3/quizzes/Week3_Sample_Questions_2.pdf) | [Week3_Sample_Key_2.pdf](../assets/week3/quizzes/Week3_Sample_Key_2.pdf)
+Practice Quiz 3: [Week3_Sample_Questions_3.pdf](../assets/week3/quizzes/Week3_Sample_Questions_3.pdf) | [Week3_Sample_Key_3.pdf](../assets/week3/quizzes/Week3_Sample_Key_3.pdf)
 
 ---
 
