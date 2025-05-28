@@ -49,7 +49,7 @@ Please **do not** join the help room Zoom for the exams. The help room Zoom will
 
 ## Content
 
-All exams will be on D2L using lockdown browser, and will contain 40 forward-only multiple-choice questions (40 points), and 4 forward-only short-answer questions (20 points). Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs ([examples](../assets/files/CSE_232_SQ_Examples.pdf)).
+All exams will be on D2L using lockdown browser, and will contain 40 forward-only multiple-choice questions (40 points), and 4 forward-only short-answer questions (20 points). Some sample MCQs from Spring 2024 and 2025 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs ([examples](../assets/files/CSE_232_SQ_Examples.pdf)).
 
 All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 1 and Week 2.
 
