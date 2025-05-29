@@ -18,16 +18,16 @@ All times listed here are based on Eastern Daylight Time. If you are in a differ
 
 May 29, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
-[Zoom link available an hour before the exam]()
+[Zoom link](https://msu.zoom.us/j/93439649771)
 
-* Meeting ID: \*\*\* \*\*\*\* \*\*\*
-* Passcode: \*\*\*\*\*
+* Meeting ID: 934 3964 9771
+* Passcode: 944132
 
 ### Exam 2
 
 June 12, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
-[Zoom link available an hour before the exam]()
+[Zoom link available an hour before the exam starts]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -36,7 +36,7 @@ June 12, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
 June 26, 2025 (Thursday) | 6:00 PM - 8:00 PM (EDT)
 
-[Zoom link available an hour before the exam]()
+[Zoom link available an hour before the exam starts]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
