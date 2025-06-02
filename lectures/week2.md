@@ -8,10 +8,10 @@ description: Lectures for week 2.
 
 # Week 2
 
-<!-- ---
+---
 
 Exam 1 MCQ Answers: [CSE_232_Exam_1_MCQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_MCQ.pdf) |
-Exam 1 SQ Answers: [CSE_232_Exam_1_SQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_SQ.pdf) | -->
+Exam 1 SQ Answers: [CSE_232_Exam_1_SQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_SQ.pdf) |
 
 ---
 
