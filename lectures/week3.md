@@ -11,7 +11,6 @@ description: Lectures for week 3.
 ---
 
 Flash Quiz 4 Answers: [CSE_232_Flash_Quiz_4.pdf](../assets/week3/quizzes/CSE_232_Flash_Quiz_4.pdf) |
-Flash Quiz 5 Answers: [CSE_232_Flash_Quiz_5.pdf](../assets/week3/quizzes/CSE_232_Flash_Quiz_5.pdf) |
 
 ---
 
