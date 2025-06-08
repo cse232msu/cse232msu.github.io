@@ -19,6 +19,10 @@ Flash Quiz 6 Answers: [CSE_232_Flash_Quiz_6.pdf](../assets/week4/quizzes/CSE_232
 
 ---
 
+Flash Quiz 5 Answers: [CSE_232_Flash_Quiz_5.pdf](../assets/week4/quizzes/CSE_232_Flash_Quiz_5.pdf) |
+
+---
+
 Practice Quiz 1 [Week4_Sample_Questions_1.pdf](../assets/week4/quizzes/Week4_Sample_Questions_1.pdf) | [Week4_Sample_Key_1.pdf](../assets/week4/quizzes/Week4_Sample_Key_1.pdf)
 Practice Quiz 2 [Week4_Sample_Questions_2.pdf](../assets/week4/quizzes/Week4_Sample_Questions_2.pdf) | [Week4_Sample_Key_2.pdf](../assets/week4/quizzes/Week4_Sample_Key_2.pdf)
 
