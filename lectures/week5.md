@@ -14,8 +14,8 @@ Flash Quiz 7 Answers: [CSE_232_Flash_Quiz_7.pdf](../assets/week5/quizzes/CSE_232
 
 ---
 
-Practice Quiz 1 (Spring 2024): [Week5_Sample_Questions_1.pdf](../assets/week5/quizzes/Week5_Sample_Questions_1.pdf) | [Week5_Sample_Key_1.pdf](../assets/week5/quizzes/Week5_Sample_Key_1.pdf)
-Practice Quiz 2 (Spring 2024): [Week5_Sample_Questions_2.pdf](../assets/week5/quizzes/Week5_Sample_Questions_2.pdf) | [Week5_Sample_Key_2.pdf](../assets/week5/quizzes/Week5_Sample_Key_2.pdf)
+Practice Quiz 1: [Week5_Sample_Questions_1.pdf](../assets/week5/quizzes/Week5_Sample_Questions_1.pdf) | [Week5_Sample_Key_1.pdf](../assets/week5/quizzes/Week5_Sample_Key_1.pdf)
+Practice Quiz 2: [Week5_Sample_Questions_2.pdf](../assets/week5/quizzes/Week5_Sample_Questions_2.pdf) | [Week5_Sample_Key_2.pdf](../assets/week5/quizzes/Week5_Sample_Key_2.pdf)
 
 ---
 
