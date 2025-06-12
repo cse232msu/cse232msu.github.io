@@ -88,7 +88,7 @@ It is imperative that you budget your time effectively during the exam. If you s
 ### Before Exam
 
 - Be sure you have the following items ready:
-	- A desktop or a fully charged (or plugged in) laptop computer capable of running Zoom and screen sharing, with a functional microphone and a webcam. **You will not be able to take the exam without this device.** If you do not have a desktop or a laptop (or if you are worried the one you have may malfunction), you can borrow a laptop from [DECS](https://www.egr.msu.edu/decs).
+	- A desktop or a fully charged (or plugged in) laptop computer with a functional microphone and a webcam. **You will not be able to take the exam without this device.** If you do not have a desktop or a laptop (or if you are worried the one you have may malfunction), you can borrow a laptop from [DECS](https://www.egr.msu.edu/decs).
 	- A fully charged (or plugged in) smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams. **You will not be able to take the exam without this device.** If you do not have a smartphone or a tablet (or if you are worried the one you have may malfunction), you can borrow a smartphone from [DECS](https://www.egr.msu.edu/decs).
 	- Access to a stable internet connection from both devices mentioned above. It is **your responsibility** to make sure you are on a stable internet connection, and your devices are in working order. It may be a good idea to have backup plans in place (e.g., a fully charged laptop in case of a power outage, hotspot internet over cellular data in case of an internet outage, etc.).
 	- Your non-electronic notes.
