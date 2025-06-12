@@ -105,7 +105,7 @@ It is imperative that you budget your time effectively during the exam. If you s
 ### During Exam
 
 - Keep the speaker volume of your smartphone or tablet turned up (but the microphone muted) during the exam. You need to be able to hear the course staff if they call on you, or make a general announcement.
-- Under no circumstances should you leave your desk during the exam. If you feel there is a valid reason for which you are compelled to leave your desk, you must first draw the attention of the course staff assigned to your breakout room (without turning on your microphone). You if you leave without informing a course staff, your exam may be forfeited, and you will receive a zero.
+- Under no circumstances should you leave your desk during the exam. If you feel there is a valid reason for which you are compelled to leave your desk, you must first draw the attention of the course staff assigned to your breakout room (without turning on your microphone). If you leave without informing a course staff, your exam may be forfeited, and you will receive a zero.
 - Under no circumstances should your video feed be turned off. Low battery is not an acceptable excuse. If your video is turned off, and you do not respond to a course staff when called on, your exam may be forfeited, and you will receive a zero.
 - The course staff holds the right to suspend your exam, if you are suspected of cheating.
 
