@@ -8,14 +8,10 @@ description: Lectures for week 4.
 
 # Week 4
 
-<!-- ---
+---
 
 Exam 2 MCQ Answers: [CSE_232_Exam_2_MCQ.pdf](../assets/week4/quizzes/CSE_232_Exam_2_MCQ.pdf) |
 Exam 2 SQ Answers: [CSE_232_Exam_2_SQ.pdf](../assets/week4/quizzes/CSE_232_Exam_2_SQ.pdf) |
-
----
-
-Flash Quiz 6 Answers: [CSE_232_Flash_Quiz_6.pdf](../assets/week4/quizzes/CSE_232_Flash_Quiz_6.pdf) | -->
 
 ---
 
@@ -31,7 +27,7 @@ Practice Quiz 2 [Week4_Sample_Questions_2.pdf](../assets/week4/quizzes/Week4_Sam
 
 ## Classes and Concrete Types
 * Reading: Section 5.1 through 5.2.1
-<!-- * [Lecture slides (Classes and Concrete Types)](https://docs.google.com/presentation/d/1-g1PRiGVaAJ6tMu-itDxnhuKdWQ44QWYsEGObyXsVzo/edit?usp=sharing) -->
+<!-- * [Lecture slides (Classes and Concrete Types)](https://docs.google.com/presentation/d/1-g1PRiGVaAJ6tMu-itDxnhuKdWQ44QWYsEGObyXsVzo/edit?usp=sharing)
 * Lecture Slides: [Classes and Concrete Types](../assets/week4/slides/Classes%20and%20Concrete%20Types.pdf)
 * Codes (Separate Function): [main.cpp](../assets/week4/codes/sf/main.cpp), [complex.h](../assets/week4/codes/sf/complex.h), [complex.cpp](../assets/week4/codes/sf/complex.cpp)
 * Codes (Member Function): [main.cpp](../assets/week4/codes/mf/main.cpp), [complex.h](../assets/week4/codes/mf/complex.h), [complex.cpp](../assets/week4/codes/mf/complex.cpp)
