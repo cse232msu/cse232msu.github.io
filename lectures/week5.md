@@ -8,9 +8,9 @@ description: Lectures for week 5.
 
 # Week 5
 
-<!-- ---
+---
 
-Flash Quiz 7 Answers: [CSE_232_Flash_Quiz_7.pdf](../assets/week5/quizzes/CSE_232_Flash_Quiz_7.pdf) | -->
+Flash Quiz 7 Answers: [CSE_232_Flash_Quiz_7.pdf](../assets/week5/quizzes/CSE_232_Flash_Quiz_7.pdf) |
 
 ---
 
