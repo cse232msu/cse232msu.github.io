@@ -116,7 +116,7 @@ It is imperative that you budget your time effectively during the exam. If you s
 
 ### After Exam
 
-- If you finish your exam early, please do not leave or turn your camera off. You must wait until 8:00pm (EDT) before leaving. **Leaving the exam Zoom early will result in a penalty, and may lead to receiving a zero in the exam.**
+- If you finish your exam early, please do not leave Zoom or turn your camera off. You must wait until 8:00pm (EDT) before leaving. **Leaving the exam Zoom early will result in a penalty, and may lead to receiving a zero in the exam.**
 
 ---
 
